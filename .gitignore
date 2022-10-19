@@ -34,7 +34,7 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
+# *.hex
 
 # Debug files
 *.dSYM/
@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+Project/.vscode/
+
+Project/Objects/MS51xB9AE_Template.lnp
+
+Project/Objects/MS51xB9AE_Template.build_log.htm
+
+Project/Objects/MS51xB9AE_Template
+
+Project/MS51xB9AE_Template.uvgui.Jack
+
+*.lst
+
+Project/Listings/MS51xB9AE_Template.m51
